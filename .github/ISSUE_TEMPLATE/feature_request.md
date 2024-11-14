@@ -6,8 +6,6 @@ labels: "open for contribution"
 assignees: ""
 ---
 
-# Issue Template
-
 ## Description 📹
 
 [Insert clear description here]
