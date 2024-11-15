@@ -2,7 +2,7 @@
 name: Feature request
 about: Describe the feature you want and propose some steps to achieve it
 title: ""
-labels: "open for contribution, Good first issue, OD hack"
+labels: "Open for contribution, Good first issue, OD Hack"
 assignees: ""
 ---
 
